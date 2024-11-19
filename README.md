@@ -35,3 +35,8 @@ The layout dynamically adjusts to accommodate all records in the dataset, arrang
 To use the Python script, you need install python.
 link: https://www.python.org/downloads/
 
+## Card 
+
+![image](https://github.com/user-attachments/assets/cee5e97d-ad32-49c0-9aed-1670ede0d91d)
+
+
