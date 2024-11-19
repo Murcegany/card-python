@@ -1,0 +1,12 @@
++-----------------------------+
+|         Government          |  <-- Segment (Título principal)
++-----------------------------+
+| Product: Solar Panels       |  <-- Detalhe do produto
+| Country: USA                |  <-- País
++-----------------------------+
+| Discount Band: High         |  <-- Desempenho
+| Units Sold: 1,200           |
+| Sales: $1,200,000.00        |
++-----------------------------+
+|           [Ícone]           |  <-- Ícone representativo
++-----------------------------+

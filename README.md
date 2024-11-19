@@ -1,2 +1,2 @@
-# card-python
-Example of a visual card to be displayed in power bi with python script.
+# Card Python Power BI Example
+This script is designed to generate business card layouts representing sales information for different segments (Government, Midmarket, Enterprise). The generated cards include product details, sales data, and segment icons, which are displayed in a visually appealing layout. The script is made to be used within power bi as a "python script". The data example was used within the code itself, making the change necessary to search according to the specific tables.
