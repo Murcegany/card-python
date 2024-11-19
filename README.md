@@ -35,6 +35,10 @@ The layout dynamically adjusts to accommodate all records in the dataset, arrang
 To use the Python script, you need install python.
 link: https://www.python.org/downloads/
 
+## Dashboard
+
+![image](https://github.com/user-attachments/assets/f44ae72b-70b1-43f8-91dd-e7a7131c834a)
+
 ## Card 
 
 ![image](https://github.com/user-attachments/assets/cee5e97d-ad32-49c0-9aed-1670ede0d91d)
